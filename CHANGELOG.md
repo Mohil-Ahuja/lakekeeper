@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.14.1](https://github.com/lakekeeper/lakekeeper/compare/v0.14.0...v0.14.1) (2026-10-08)
+
+
+### Documentation
+
+* **authz-cedar:** document tabular move actions and the predefined move policies ([abae03a](https://github.com/lakekeeper/lakekeeper/commit/abae03aebfc5f4d4384b5f8df6ef70367259969c))
+
+
+### Miscellaneous Chores
+
+* 0.14.x docs ([69ec61f](https://github.com/lakekeeper/lakekeeper/commit/69ec61f129761ce607027581ad68a0fce5df1898))
+* clean up after the 0.14.0 release and fix the Cedar tag docs ([#2096](https://github.com/lakekeeper/lakekeeper/issues/2096)) ([7643164](https://github.com/lakekeeper/lakekeeper/commit/7643164ec61578de2562c9c99633e835d2e61e1a))
+* **docs:** Sync documentation from lakekeeper plus ([#2089](https://github.com/lakekeeper/lakekeeper/issues/2089)) ([630e2d8](https://github.com/lakekeeper/lakekeeper/commit/630e2d85036c2a97db3b31800e2df33e2b4c9529))
+* **docs:** Sync documentation from lakekeeper plus ([#2098](https://github.com/lakekeeper/lakekeeper/issues/2098)) ([18e3d98](https://github.com/lakekeeper/lakekeeper/commit/18e3d9896bf58db91e4e6f1c215b1b460a0031d9))
+* fix release notes and checker alongside ([#2103](https://github.com/lakekeeper/lakekeeper/issues/2103)) ([adbf98c](https://github.com/lakekeeper/lakekeeper/commit/adbf98c11fc62178b092a23ad3541f51db71e533))
+* release-please crate check, bounded DB dump, idp_ids docs ([#2100](https://github.com/lakekeeper/lakekeeper/issues/2100)) ([f9bf05f](https://github.com/lakekeeper/lakekeeper/commit/f9bf05fa96151198a9f606447aef740e25327253))
+
 ## [0.14.0](https://github.com/lakekeeper/lakekeeper/compare/v0.13.1...v0.14.0) (2026-10-07)
 
 
